@@ -6,3 +6,8 @@
 <p>Each furniture type might have its own unique shipping cost calculation logic. For example, chairs might be lightweight and have a flat shipping rate, while sofas might be bulky and require a distance-based shipping cost calculation. Implementing separate shipping logic within each furniture class would lead to tight coupling and difficulty adding new furniture types in the future.</p>
 
 <p>Implement a visitor design pattern approach. You must show the different elements of visitor design in your solution.  DO NOT USE ABSTRACT CLASSES. You are free to name your interfaces and concrete classes. Have a client code that will test your program.</p>
+
+<hr>
+
+### UML Diagram:
+<img width="6368" height="2027" alt="image" src="https://github.com/user-attachments/assets/1b45819e-8d2b-4d99-8890-6db6a02dad1f" />
